@@ -3,5 +3,7 @@ class Hello2{
 		System.out.print("Hello java");
 	}
 	
-	private void hello(){}
+	private void hello(){
+System.out.print("Hello");
+}
 }
