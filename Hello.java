@@ -3,7 +3,7 @@ class Hello{
 
 		System.out.print("Hello blabla");
 
-		System.out.print("Hello yy");
+		System.out.print("Hello zz");
 
 	}
 }
